@@ -15,12 +15,12 @@
 #define SWITCH_ID_1       "null" // 2 Swıtch
 
 #if defined(ESP8266)
-#define RELAYPIN_1        14
-#define RELAYPIN_2        12
+#define RELAYPIN_1        5
+#define RELAYPIN_2        4
 #endif
 
 #define BAUD_RATE         115200 // Change baudrate to your need
-
+                      
 bool onPowerState(const String &deviceId, bool &state) {
   Serial.printf("Device turned %s", state ? "on" : "off");
   digitalWrite(RELAYPIN_1, state ? LOW : HIGH);
@@ -28,13 +28,14 @@ bool onPowerState(const String &deviceId, bool &state) {
   if (state) { // if power is on
     delay(200);
     digitalWrite(RELAYPIN_2, LOW); // Open RELAYPIN_2
-    delay(400); 
+    delay(300); // Wait for 1 second
     digitalWrite(RELAYPIN_2, HIGH); // Close RELAYPIN_2
-    delay(10);
+    delay(10); // Wait for 10 milliseconds
     digitalWrite(RELAYPIN_1, HIGH); // Close RELAYPIN_1
   }
-  
+
   return true; // request handled properly
+
 }
 
 // setup function for WiFi connection
@@ -86,7 +87,6 @@ void setup() {
   setupSinricPro();
   digitalWrite(RELAYPIN_1, HIGH);
   digitalWrite(RELAYPIN_2, HIGH);
-
 }
 
 void loop() {
