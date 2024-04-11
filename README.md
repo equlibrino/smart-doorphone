@@ -5,8 +5,10 @@
 
 ### The goal of the project
 - Thanks to Sinric Pro, you can open your apartment door with a single button, wherever you are in the world.
-- First channel 1 is turned on - the doorphone camera is turned on - then channel 2 is turned on and the door is opened.
+- First, channel 1 is turned on - the doorphone screen works - then channel 2 is turned on and the door opens.
 
+### You shouldn't forget
+- 
 
 ># Circuit board
 <div style="display: flex;">
