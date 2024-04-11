@@ -2,12 +2,12 @@
 >![Untitled Sketch 3_bb](https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/door.png)
 
 ### Materials;
-## ESP8266 Wifi Serial Module
-## 5v 2 Channel Relay Module
-## Ams1117 3.3v Voltage Regulator Module
-## 5x10 Perforated Pertinax
-## 2x4 Pin Header Female
-## 4 Pin Tact Switch - 6x6x6.5mm
+- ESP8266 Wifi Serial Module
+- 5v 2 Channel Relay Module
+- Ams1117 3.3v Voltage Regulator Module
+- 5x10 Perforated Pertinax
+- 2x4 Pin Header Female
+- 4 Pin Tact Switch - 6x6x6.5mm
 
 ### The goal of the project
 - Thanks to Sinric Pro, you can open your apartment door with a single button, wherever you are in the world.
