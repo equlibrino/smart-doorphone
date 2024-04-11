@@ -20,6 +20,7 @@
 
 **Don't know how to install software on the module?**
 - Don't worry [esp01_software](https://github.com/equlibrino/esp01_software)
+- <font color="red"Since the relay is directly connected to the power supply, you need to connect the GND pin of the relay to the GND pin of the ESP.</font>
 
 ># Circuit board - [Trial video](https://cdn.glitch.global/d03d2042-9967-4cf1-9859-fbce716a58fe/video.mp4?v=1712860379736)
 ><div style="display: flex;">
