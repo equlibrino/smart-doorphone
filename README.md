@@ -13,6 +13,7 @@ Because he always remains open to the role.
 [Click here](image/auto_off.png)
 
 ># Circuit board
+[Trial video](https://cdn.glitch.global/d03d2042-9967-4cf1-9859-fbce716a58fe/video.mp4?v=1712860379736)
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/card.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
   <img src="https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/card2.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
