@@ -8,7 +8,9 @@
 - First, channel 1 is turned on - the doorphone screen works - then channel 2 is turned on and the door opens.
 
 ### You shouldn't forget
-- 
+- There is no button in Sinric, you need to activate the automatic shut-off with key.
+Because he always remains open to the role.
+[Click here](image/auto_off.png)
 
 ># Circuit board
 <div style="display: flex;">
