@@ -12,7 +12,7 @@
 ### The goal of the project;
 - Thanks to the ESP8266 Wifi Serial Module, you can open the door of your apartment with a single button, wherever you are in the world.
 - You can change the time intervals of the relay according to the features of the [video](https://www.audio.com.tr/product-category/goruntulu-diafon/) or [audio intercom](https://www.audio.com.tr/product-category/sesli-diafon/) device connected to your home, or you can use the relay as a single channel.
-## Purpose of the code;
+**Purpose of the code;**
 - First the first channel of the relay is turned on - the intercom screen works - then the second channel of the relay is turned on and when the relays are closed **the door opens.**
 
 ### You must not forget;
