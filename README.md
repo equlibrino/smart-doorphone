@@ -1,5 +1,5 @@
 ># Wiring diagram
->![Untitled Sketch 3_bb](https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/door.png)
+>![Untitled Sketch 3_bb](image/door.png)
 
 ### Materials;
 - ESP8266 Wifi Serial Module
@@ -24,7 +24,7 @@
 
 ># Circuit board - [Trial video](https://cdn.glitch.global/d03d2042-9967-4cf1-9859-fbce716a58fe/video.mp4?v=1712860379736)
 ><div style="display: flex;">
->  <img src="https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/card.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
->  <img src="https://raw.githubusercontent.com/equlibrino/smart-doorphone/main/image/card2.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
+>  <img src="image/card.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
+>  <img src="image/card2.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
 >  <img src="image/audio.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
 ></div>
