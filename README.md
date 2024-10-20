@@ -22,7 +22,7 @@
 **Don't know how to install software on the module?**
 - Don't worry [esp01_software](https://github.com/equlibrino/esp01_software)
 
-># Circuit board - [Trial video](https://cdn.glitch.global/d03d2042-9967-4cf1-9859-fbce716a58fe/video.mp4?v=1712860379736)
+># Circuit board - [Trial video](https://cdn.glitch.global/d03d2042-9967-4cf1-9859-fbce716a58fe/video.mp4?v=1729448268140)
 ><div style="display: flex;">
 >  <img src="image/card.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
 >  <img src="image/card2.jpg" alt="circuit board" style="width: 300px; height: auto;"/>
